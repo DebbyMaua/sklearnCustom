@@ -1,4 +1,5 @@
 from setuptools import setup
+from xgboost import XGBClassifier
 
 
 setup(
