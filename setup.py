@@ -1,6 +1,5 @@
 from setuptools import setup
 from xgboost import XGBClassifier
-!pip install xgboost==0.71
 
 setup(
       name='my_custom_sklearn_transforms',
