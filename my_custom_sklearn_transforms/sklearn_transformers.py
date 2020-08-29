@@ -1,6 +1,5 @@
 from sklearn.base import BaseEstimator, TransformerMixin
 from xgboost import XGBClassifier
-!pip install xgboost==0.71
 
 
 # All sklearn Transforms must have the `transform` and `fit` methods
